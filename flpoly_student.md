@@ -16,7 +16,7 @@ Computer Engineering student at [Florida Polytechnic University](https://www.flo
 
 I am _passionate about_: 
 
-- Anime/Manga
+- Anime / Manga
 
 - Video Games
 
