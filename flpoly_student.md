@@ -1,5 +1,4 @@
-## First Name Last Name
-Bryson Ewell
+## Bryson Ewell
 
 ### Spring 2020 
 
