@@ -1,23 +1,24 @@
 ## First Name Last Name
+Bryson Ewell
 
 ### Spring 2020 
 
-Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
+Computer Engineering student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Senior Design 1
 
-- Course 2
+- Operating Systems Concepts
 
-- Course 3
+- Artificial Intelligence
 
-- Course 4
+- Introduction to Data Science
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Anime/Manga
 
-- Thing 2
+- Video Games
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Programming
